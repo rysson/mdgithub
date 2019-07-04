@@ -1,0 +1,10 @@
+# py
+*.py[cod]
+__pycache__
+
+# working paths
+/.venv
+/*.egg-info
+
+# ViM
+.*.sw?
