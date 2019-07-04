@@ -10,6 +10,8 @@ Now supports:
 
 ## Install
 
-```python setup install``
+```bash
+python setup install
+```
 
 `venv` or `virtualenv` is recomended.
